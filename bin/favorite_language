@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require_relative '../lib/favorite_language/cli'
+FavoriteLanguage::CLI.start
