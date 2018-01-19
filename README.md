@@ -3,14 +3,9 @@
 This little gem gets the favorite language of a target Github user based on
 their public repositories.
 
-## Installation
-Install it yourself as:
-
-```
-gem install favorite_language
-```
-
 ## Usage
+
+Clone the repo, then..
 
 ```
 bin/favorite_language target_github_username your_github_username
